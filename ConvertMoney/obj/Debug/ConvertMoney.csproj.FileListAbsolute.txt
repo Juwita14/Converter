@@ -1,0 +1,9 @@
+C:\Users\TOSHIBA\source\repos\ConvertMoney\ConvertMoney\bin\Debug\ConvertMoney.exe.config
+C:\Users\TOSHIBA\source\repos\ConvertMoney\ConvertMoney\bin\Debug\ConvertMoney.exe
+C:\Users\TOSHIBA\source\repos\ConvertMoney\ConvertMoney\bin\Debug\ConvertMoney.pdb
+C:\Users\TOSHIBA\source\repos\ConvertMoney\ConvertMoney\obj\Debug\ConvertMoney.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\ConvertMoney\ConvertMoney\obj\Debug\ConvertMoney.Form1.resources
+C:\Users\TOSHIBA\source\repos\ConvertMoney\ConvertMoney\obj\Debug\ConvertMoney.Properties.Resources.resources
+C:\Users\TOSHIBA\source\repos\ConvertMoney\ConvertMoney\obj\Debug\ConvertMoney.csproj.GenerateResource.cache
+C:\Users\TOSHIBA\source\repos\ConvertMoney\ConvertMoney\obj\Debug\ConvertMoney.exe
+C:\Users\TOSHIBA\source\repos\ConvertMoney\ConvertMoney\obj\Debug\ConvertMoney.pdb
